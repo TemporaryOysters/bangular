@@ -8,5 +8,5 @@ app.controller('ProductListCtrl', function($scope, $http, $location) {
         $scope.products = res.data;
       }
     )
-
+  
 });
