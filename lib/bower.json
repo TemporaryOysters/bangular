@@ -1,0 +1,22 @@
+{
+  "name": "Trent Hand",
+  "authors": [
+    "Trent Hand <livefree1983@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "angular": "^1.6.2",
+    "angular-route": "^1.6.2"
+  }
+}
